@@ -1,7 +1,7 @@
 # cfsd18-cognition-track
 [![Build Status](https://travis-ci.org/cfsd/cfsd18-cognition-track.svg?branch=master)](https://travis-ci.org/cfsd/cfsd18-cognition-track)
 
-## How it works
+## ow it works
 
 - The function Track:Track and Track:setUp is used to initialize and set up local variables
 - The function Track:nextContainer take a reference of a container from cluon:data:Envelope to extract different data according to different message ID
